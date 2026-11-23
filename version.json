@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "url": "https://github.com/Lsg22601/umbra-updates/releases/latest",
-  "notes": "Простой режим, отчёт, автовыбор сервера"
+  "notes": "Возможность смены расширенного режима обратно на простой"
 }
